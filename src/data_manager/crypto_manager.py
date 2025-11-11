@@ -80,7 +80,7 @@ def get_securities(src_dir="../../data", tag="crypto", tickers=None, conf_file="
         try:
             fd = open(conf_file, 'r')
             lines = fd.read()
-            tickers = list(filter(lambda x : x, lines.split('\n')))
+            tickers = list(filter(lambda x : x and x[0] != "#", lines.split('\n')))
         except Exception as e:
             print(f"Something happens during the {tag} loading securities: \n{e}")
             return None
