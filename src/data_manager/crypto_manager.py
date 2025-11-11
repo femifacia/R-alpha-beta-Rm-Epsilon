@@ -67,7 +67,7 @@ def update_securities(src_dir="../data", tag="crypto", tickers=None, conf_file="
         new_df = get_binance_ticker_sdk(symbol=ticker, start_str=start)
         result_df = pd.concat([previous_data,new_df],axis=0,verify_integrity=True).drop(columns='ignore')
         result_df.to_csv(save_path)
-    return True
+    return result_df
 
 def get_securities(src_dir="../../data", tag="crypto", tickers=None, conf_file="../../conf/list_crypto_securities.conf", start=None, end=None):
     if not os.path.isdir(src_dir):
@@ -93,8 +93,9 @@ def get_securities(src_dir="../../data", tag="crypto", tickers=None, conf_file="
             if end and df.index[-1] < end:
                 raise Exception('End not in bench')
         except:
-            df = update_securities(src_dir=src_dir, ticker=ticker)
+            df = update_securities(src_dir=src_dir, tickers=[ticker])
         if start:
+            print(start)
             df = df.loc[start:]
         if end:
             df = df.loc[:end]
