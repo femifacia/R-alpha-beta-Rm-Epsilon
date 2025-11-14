@@ -1,0 +1,744 @@
+ticker,short_name,gics_sector_name,id_isin,gics_industry_group_name,gics_industry_name,gics_sub_industry_name
+1284849D,ALLERGAN INC/UNI,Health Care,US0184901025,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+1288453D,MONSTER BEVERAGE,Consumer Staples,US6117401017,"Food, Beverage & Tobacco",Beverages,Soft Drinks & Non-alcoholic Be
+1436513D,JOHNSON CONTROLS,,US4783661071,,,
+1437355D,SEATTLE SPINCO-A,,,,,
+1448062D,DIRECTV,Communication Services,US25490A3095,Media & Entertainment,Media,Cable & Satellite
+1500785D,TECO ENERGY INC,Utilities,US8723751009,Utilities,Multi-Utilities,Multi-Utilities
+1518855D,YAHOO! INC - SET,Communication Services,,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+1539941D,SPECTRA ENERGY L,Energy,US8475601097,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transporta
+1541931D,ALTERA CORP,Information Technology,US0214411003,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+1566019D,ADT SECURITY COR,Industrials,US00101J1060,Commercial & Professional Serv,Commercial Services & Supplies,Security & Alarm Services
+1684442D,PALL CORP,Industrials,US6964293079,Capital Goods,Machinery,Industrial Machinery & Supplie
+1697067D,DOW CHEMICAL CO,Materials,US2605431038,Materials,Chemicals,Diversified Chemicals
+1715651D,EIDP INC,Materials,US2635341090,Materials,Chemicals,Diversified Chemicals
+1806854D,DUN & BRADSTREET,Industrials,US26483E1001,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+1831877D,XL GROUP LTD,Financials,BMG982941046,Insurance,Insurance,Property & Casualty Insurance
+1844053D,APARTMENT INVEST,Real Estate,,Equity Real Estate Investment,Residential REITs,Multi-Family Residential REITs
+1856613D,MONSANTO CO,Materials,US61166W1018,Materials,Chemicals,Fertilizers & Agricultural Che
+1922150D,LINDE INC/CT,Materials,US74005P1049,Materials,Chemicals,Industrial Gases
+1927294D,L3 TECHNOLOGIES,Industrials,US5024131071,Capital Goods,Aerospace & Defense,Aerospace & Defense
+2078185D,TIFFANY & CO,Consumer Discretionary,US8865471085,Consumer Discretionary Distrib,Specialty Retail,Other Specialty Retail
+2258717D,EMC CORP/MA,Information Technology,US2686481027,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+2326248D,CA INC,Information Technology,US12673P1057,Software & Services,Software,Systems Software
+2370058D,SUNTRUST BANKS,Financials,US8679141031,Banks,Banks,Regional Banks
+2499073D,IHS MARKIT LTD,Industrials,BMG475671050,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+2544554D,SANDISK LLC,Information Technology,US80004C1018,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+2557974D,PEPCO HOLDINGS,Utilities,US7132911022,Utilities,Electric Utilities,Electric Utilities
+2558202D,SCRIPPS NET-CL A,Communication Services,US8110651010,Media & Entertainment,Media,Broadcasting
+2584271D,PLUM CREEK TIMBR,,US7292511083,,,
+9876549D,NIELSEN NV,Industrials,NL0009538479,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+9876566D,CHUBB CORP,Financials,US1712321017,Insurance,Insurance,Property & Casualty Insurance
+9903115D,BLACKROCK FINANC,Financials,US09247X1019,Financial Services,Capital Markets,Asset Management & Custody Ban
+9980328D,LABORATORY CP,Health Care,US50540R4092,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Services
+9983490D,TE CONNECTIVITY,Information Technology,CH0102993182,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Manufacturing Servi
+9990213D,JACOBS ENGIN GRP,Industrials,US4698141078,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+9991429D,APTIV IRISH HOLD,Consumer Discretionary,JE00B783TY65,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+A,AGILENT TECH INC,Health Care,US00846U1016,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+AA,ALCOA CORP,Materials,US0138721065,Materials,Metals & Mining,Aluminum
+AAL,AMERICAN AIRLINE,Industrials,US02376R1023,Transportation,Passenger Airlines,Passenger Airlines
+AAP,ADVANCE AUTO PAR,Consumer Discretionary,US00751Y1064,Consumer Discretionary Distrib,Specialty Retail,Automotive Retail
+AAPL,APPLE INC,Information Technology,US0378331005,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+ABBV,ABBVIE INC,Health Care,US00287Y1091,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+ABMD,ABIOMED INC,Health Care,US0036541003,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+ABNB,AIRBNB INC-A,Consumer Discretionary,US0090661010,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+ABT,ABBOTT LABS,Health Care,US0028241000,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+ACGL,ARCH CAPITAL GRP,Financials,BMG0450A1053,Insurance,Insurance,Property & Casualty Insurance
+ACN,ACCENTURE PLC-A,Information Technology,IE00B4BNMY34,Software & Services,IT Services,IT Consulting & Other Services
+ADBE,ADOBE INC,Information Technology,US00724F1012,Software & Services,Software,Application Software
+ADI,ANALOG DEVICES,Information Technology,US0326541051,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+ADM,ARCHER-DANIELS,Consumer Staples,US0394831020,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Servic
+ADP,AUTOMATIC DATA,Industrials,US0530151036,Commercial & Professional Serv,Professional Services,Human Resource & Employment Se
+ADSK,AUTODESK INC,Information Technology,US0527691069,Software & Services,Software,Application Software
+AEE,AMEREN CORP,Utilities,US0236081024,Utilities,Multi-Utilities,Multi-Utilities
+AEP,AMERICAN ELECTRI,Utilities,US0255371017,Utilities,Electric Utilities,Electric Utilities
+AES,AES CORP,Utilities,US00130H1059,Utilities,Independent Power and Renewabl,Independent Power Producers &
+AET,AETNA INC,Health Care,US00817Y1082,Health Care Equipment & Servic,Health Care Providers & Servic,Managed Health Care
+AFL,AFLAC INC,Financials,US0010551028,Insurance,Insurance,Life & Health Insurance
+AGN,ALLERGAN UNLTD C,Health Care,IE00BY9D5467,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+AIG,AMERICAN INTERNA,Financials,US0268747849,Insurance,Insurance,Property & Casualty Insurance
+AIRC,APARTMENT INCOME,Real Estate,US03750L1098,Equity Real Estate Investment,Residential REITs,Multi-Family Residential REITs
+AIV,APARTMENT INVEST,Real Estate,US03748R7474,Equity Real Estate Investment,Residential REITs,Multi-Family Residential REITs
+AIZ,ASSURANT INC,Financials,US04621X1081,Insurance,Insurance,Property & Casualty Insurance
+AJG,ARTHUR J GALLAGH,Financials,US3635761097,Insurance,Insurance,Insurance Brokers
+AKAM,AKAMAI TECHNOLOG,Information Technology,US00971T1016,Software & Services,IT Services,Internet Services & Infrastruc
+ALB,ALBEMARLE CORP,Materials,US0126531013,Materials,Chemicals,Specialty Chemicals
+ALGN,ALIGN TECHNOLOGY,Health Care,US0162551016,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Supplies
+ALK,ALASKA AIR GROUP,Industrials,US0116591092,Transportation,Passenger Airlines,Passenger Airlines
+ALL,ALLSTATE CORP,Financials,US0200021014,Insurance,Insurance,Property & Casualty Insurance
+ALLE,ALLEGION PLC,Industrials,IE00BFRT3W74,Capital Goods,Building Products,Building Products
+ALXN,ALEXION PHARM,Health Care,US0153511094,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+AMAT,APPLIED MATERIAL,Information Technology,US0382221051,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductor Materials & Equi
+AMCR,AMCOR PLC,Materials,JE00BJ1F3079,Materials,Containers & Packaging,Paper & Plastic Packaging Prod
+AMD,ADV MICRO DEVICE,Information Technology,US0079031078,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+AME,AMETEK INC,Industrials,US0311001004,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+AMG,AFFIL MANAGERS,Financials,US0082521081,Financial Services,Capital Markets,Asset Management & Custody Ban
+AMGN,AMGEN INC,Health Care,US0311621009,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+AMP,AMERIPRISE FINAN,Financials,US03076C1062,Financial Services,Capital Markets,Asset Management & Custody Ban
+AMT,AMERICAN TOWER C,Real Estate,US03027X1000,Equity Real Estate Investment,Specialized REITs,Telecom Tower REITs
+AMTM,AMENTUM HOLDINGS,Industrials,US0239391016,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+AMZN,AMAZON.COM INC,Consumer Discretionary,US0231351067,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+AN,AUTONATION INC,Consumer Discretionary,US05329W1027,Consumer Discretionary Distrib,Specialty Retail,Automotive Retail
+ANDV,ANDEAVOR,Energy,US03349M1053,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+ANET,ARISTA NETWORKS,Information Technology,US0404132054,Technology Hardware & Equipmen,Communications Equipment,Communications Equipment
+ANSS,ANSYS INC,Information Technology,US03662Q1058,Software & Services,Software,Application Software
+AON,AON PLC-CLASS A,Financials,IE00BLP1HW54,Insurance,Insurance,Insurance Brokers
+AOS,SMITH (A.O.)CORP,Industrials,US8318652091,Capital Goods,Building Products,Building Products
+APA,APA CORP,Energy,US03743Q1085,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+APC,ANADARKO PETROLE,Energy,US0325111070,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+APD,AIR PRODS & CHEM,Materials,US0091581068,Materials,Chemicals,Industrial Gases
+APH,AMPHENOL CORP-A,Information Technology,US0320951017,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+APO,APOLLO GLOBAL MA,Financials,US03769M1062,Financial Services,Financial Services,Diversified Financial Services
+APTV,APTIV PLC,Consumer Discretionary,JE00BTDN8H13,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+ARE,ALEXANDRIA REAL,Real Estate,US0152711091,Equity Real Estate Investment,Health Care REITs,Health Care REITs
+ARG,AIRGAS INC,Materials,US0093631028,Materials,Chemicals,Industrial Gases
+ARNC,ARCONIC CORP,Materials,US03966V1070,Materials,Metals & Mining,Aluminum
+ATI,ATI INC,Industrials,US01741R1023,Capital Goods,Aerospace & Defense,Aerospace & Defense
+ATO,ATMOS ENERGY,Utilities,US0495601058,Utilities,Gas Utilities,Gas Utilities
+ATVI,ACTIVISION BLIZZ,Communication Services,US00507V1098,Media & Entertainment,Entertainment,Interactive Home Entertainment
+AVB,AVALONBAY COMMUN,Real Estate,US0534841012,Equity Real Estate Investment,Residential REITs,Multi-Family Residential REITs
+AVGO,BROADCOM INC,Information Technology,US11135F1012,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+AVP,AVON PRODUCTS IN,Consumer Staples,US0543031027,Household & Personal Products,Personal Care Products,Personal Care Products
+AVY,AVERY DENNISON,Materials,US0536111091,Materials,Containers & Packaging,Paper & Plastic Packaging Prod
+AWK,AMERICAN WATER W,Utilities,US0304201033,Utilities,Water Utilities,Water Utilities
+AXON,AXON ENTERPRISE,Industrials,US05464C1018,Capital Goods,Aerospace & Defense,Aerospace & Defense
+AXP,AMERICAN EXPRESS,Financials,US0258161092,Financial Services,Consumer Finance,Consumer Finance
+AYI,ACUITY INC,Industrials,US00508Y1029,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+AZO,AUTOZONE INC,Consumer Discretionary,US0533321024,Consumer Discretionary Distrib,Specialty Retail,Automotive Retail
+BA,BOEING CO/THE,Industrials,US0970231058,Capital Goods,Aerospace & Defense,Aerospace & Defense
+BAC,BANK OF AMERICA,Financials,US0605051046,Banks,Banks,Diversified Banks
+BALL,BALL CORP,Materials,US0584981064,Materials,Containers & Packaging,"Metal, Glass & Plastic Contain"
+BAX,BAXTER INTL INC,Health Care,US0718131099,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+BBBYQ,20230930-DK-BUTT,Consumer Discretionary,US0758961009,Consumer Discretionary Distrib,Specialty Retail,Homefurnishing Retail
+BBWI,BATH & BODY WORK,Consumer Discretionary,US0708301041,Consumer Discretionary Distrib,Specialty Retail,Other Specialty Retail
+BBY,BEST BUY CO INC,Consumer Discretionary,US0865161014,Consumer Discretionary Distrib,Specialty Retail,Computer & Electronics Retail
+BCR,CR BARD INC,Health Care,US0673831097,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+BDX,BECTON DICKINSON,Health Care,US0758871091,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+BEN,FRANKLIN RES INC,Financials,US3546131018,Financial Services,Capital Markets,Asset Management & Custody Ban
+BF/B,BROWN-FORMAN -B,Consumer Staples,US1156372096,"Food, Beverage & Tobacco",Beverages,Distillers & Vintners
+BFH,BREAD FINANCIAL,Financials,US0185811082,Financial Services,Consumer Finance,Consumer Finance
+BG,BUNGE GLOBAL SA,Consumer Staples,CH1300646267,"Food, Beverage & Tobacco",Food Products,Agricultural Products & Servic
+BHF,BRIGHTHOUSE FINA,Financials,US10922N1037,Insurance,Insurance,Life & Health Insurance
+BHI,BAKER HUGHES HOL,Energy,US0572241075,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services
+BIIB,BIOGEN INC,Health Care,US09062X1037,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+BIO,BIO-RAD LABS-A,Health Care,US0905722072,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+BK,BANK NY MELLON,Financials,US0640581007,Financial Services,Capital Markets,Asset Management & Custody Ban
+BKNG,BOOKING HOLDINGS,Consumer Discretionary,US09857L1089,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+BKR,BAKER HUGHES CO,Energy,US05722G1004,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services
+BLDR,BUILDERS FIRSTSO,Industrials,US12008R1077,Capital Goods,Building Products,Building Products
+BLK,BLACKROCK INC,Financials,US09290D1019,Financial Services,Capital Markets,Asset Management & Custody Ban
+BMS,AMCOR FLEXIBLES,Materials,US0814371052,Materials,Containers & Packaging,Paper & Plastic Packaging Prod
+BMY,BRISTOL-MYER SQB,Health Care,US1101221083,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+BR,BROADRIDGE FINL,Industrials,US11133T1034,Commercial & Professional Serv,Professional Services,Data Processing & Outsourced S
+BRCM,BROADCOM CORP-A,Information Technology,US1113201073,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+BRK/B,BERKSHIRE HATH-B,Financials,US0846707026,Financial Services,Financial Services,Multi-Sector Holdings
+BRO,BROWN & BROWN,Financials,US1152361010,Insurance,Insurance,Insurance Brokers
+BSX,BOSTON SCIENTIFC,Health Care,US1011371077,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+BWA,BORGWARNER INC,Consumer Discretionary,US0997241064,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+BX,BLACKSTONE INC,Financials,US09260D1072,Financial Services,Capital Markets,Asset Management & Custody Ban
+BXLT,BAXALTA INC,Health Care,US07177M1036,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+BXP,BXP INC,Real Estate,US1011211018,Equity Real Estate Investment,Office REITs,Office REITs
+C,CITIGROUP INC,Financials,US1729674242,Banks,Banks,Diversified Banks
+CAG,CONAGRA BRANDS I,Consumer Staples,US2058871029,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+CAH,CARDINAL HEALTH,Health Care,US14149Y1082,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Distributors
+CAM,CAMERON INTERNAT,Energy,US13342B1052,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services
+CARR,CARRIER GLOB,Industrials,US14448C1045,Capital Goods,Building Products,Building Products
+CAT,CATERPILLAR INC,Industrials,US1491231015,Capital Goods,Machinery,Construction Machinery & Heavy
+CB,CHUBB LTD,Financials,CH0044328745,Insurance,Insurance,Property & Casualty Insurance
+CBOE,CBOE GLOBAL MARK,Financials,US12503M1080,Financial Services,Capital Markets,Financial Exchanges & Data
+CBRE,CBRE GROUP INC-A,Real Estate,US12504L1098,Real Estate Management & Devel,Real Estate Management & Devel,Real Estate Services
+CCEP,COCA-COLA EUROPA,Consumer Staples,GB00BDCPN049,"Food, Beverage & Tobacco",Beverages,Soft Drinks & Non-alcoholic Be
+CCI,CROWN CASTLE INC,Real Estate,US22822V1017,Equity Real Estate Investment,Specialized REITs,Telecom Tower REITs
+CCL,CARNIVAL CORP,Consumer Discretionary,PA1436583006,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+CDNS,CADENCE DESIGN,Information Technology,US1273871087,Software & Services,Software,Application Software
+CDW,CDW CORP/DE,Information Technology,US12514G1085,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Technology Distributors
+CE,CELANESE CORP,Materials,US1508701034,Materials,Chemicals,Specialty Chemicals
+CEG,CONSTELLATION EN,Utilities,US21037T1097,Utilities,Electric Utilities,Electric Utilities
+CELG,CELGENE CORP,Health Care,US1510201049,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+CERN,CERNER CORP,Health Care,US1567821046,Health Care Equipment & Servic,Health Care Technology,Health Care Technology
+CF,CF INDUSTRIES HO,Materials,US1252691001,Materials,Chemicals,Fertilizers & Agricultural Che
+CFG,CITIZENS FINANCI,Financials,US1746101054,Banks,Banks,Regional Banks
+CFN,CAREFUSION CORP,Health Care,US14170T1016,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+CHD,CHURCH & DWIGHT,Consumer Staples,US1713401024,Household & Personal Products,Household Products,Household Products
+CHKAQ,CHESAPEAKE ENERG,Energy,US1651677437,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+CHRW,CH ROBINSON,Industrials,US12541W2098,Transportation,Air Freight & Logistics,Air Freight & Logistics
+CHTR,CHARTER COMMUN-A,Communication Services,US16119P1084,Media & Entertainment,Media,Cable & Satellite
+CI,THE CIGNA GROUP,Health Care,US1255231003,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Services
+CINF,CINCINNATI FIN,Financials,US1720621010,Insurance,Insurance,Property & Casualty Insurance
+CL,COLGATE-PALMOLIV,Consumer Staples,US1941621039,Household & Personal Products,Household Products,Household Products
+CLX,CLOROX CO,Consumer Staples,US1890541097,Household & Personal Products,Household Products,Household Products
+CMA,COMERICA INC,Financials,US2003401070,Banks,Banks,Diversified Banks
+CMCSA,COMCAST CORP-A,Communication Services,US20030N1019,Media & Entertainment,Media,Cable & Satellite
+CMCSK,COMCAST CORP-SPL,Communication Services,US20030N2009,Media & Entertainment,Media,Cable & Satellite
+CME,CME GROUP INC,Financials,US12572Q1058,Financial Services,Capital Markets,Financial Exchanges & Data
+CMG,CHIPOTLE MEXICAN,Consumer Discretionary,US1696561059,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants
+CMI,CUMMINS INC,Industrials,US2310211063,Capital Goods,Machinery,Construction Machinery & Heavy
+CMS,CMS ENERGY CORP,Utilities,US1258961002,Utilities,Multi-Utilities,Multi-Utilities
+CNC,CENTENE CORP,Health Care,US15135B1017,Health Care Equipment & Servic,Health Care Providers & Servic,Managed Health Care
+CNP,CENTERPOINT ENER,Utilities,US15189T1079,Utilities,Multi-Utilities,Multi-Utilities
+CNX,CNX RESOURCES CO,Energy,US12653C1080,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+COF,CAPITAL ONE FINA,Financials,US14040H1059,Financial Services,Consumer Finance,Consumer Finance
+COIN,COINBASE GLOBA-A,Financials,US19260Q1076,Financial Services,Capital Markets,Financial Exchanges & Data
+COL,ROCKWELL COLLINS,Industrials,US7743411016,Capital Goods,Aerospace & Defense,Aerospace & Defense
+COO,COOPER COS INC,Health Care,US2166485019,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Supplies
+COP,CONOCOPHILLIPS,Energy,US20825C1045,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+COR,CENCORA INC,Health Care,US03073E1055,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Distributors
+COST,COSTCO WHOLESALE,Consumer Staples,US22160K1051,Consumer Staples Distribution,Consumer Staples Distribution,Consumer Staples Merchandise R
+COTY,COTY INC-CL A,Consumer Staples,US2220702037,Household & Personal Products,Personal Care Products,Personal Care Products
+COV,COVIDIEN LTD,Health Care,IE00B68SQD29,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+CPAY,CORPAY INC,Financials,US2199481068,Financial Services,Financial Services,Transaction & Payment Processi
+CPB,THE CAMPBELL'S C,Consumer Staples,US1344291091,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+CPGX,COLUMBIA PIPELIN,Energy,US1982801094,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transporta
+CPRI,CAPRI HOLDINGS L,Consumer Discretionary,VGG1890L1076,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+CPRT,COPART INC,Industrials,US2172041061,Commercial & Professional Serv,Commercial Services & Supplies,Diversified Support Services
+CPT,CAMDEN PROP TR,Real Estate,US1331311027,Equity Real Estate Investment,Residential REITs,Multi-Family Residential REITs
+CRL,CHARLES RIVER LA,Health Care,US1598641074,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+CRM,SALESFORCE INC,Information Technology,US79466L3024,Software & Services,Software,Application Software
+CRWD,CROWDSTRIKE HO-A,Information Technology,US22788C1053,Software & Services,Software,Systems Software
+CSC,COMPUTER SCIENCE,Information Technology,US2053631048,Software & Services,IT Services,IT Consulting & Other Services
+CSCO,CISCO SYSTEMS,Information Technology,US17275R1023,Technology Hardware & Equipmen,Communications Equipment,Communications Equipment
+CSGP,COSTAR GROUP INC,Real Estate,US22160N1090,Real Estate Management & Devel,Real Estate Management & Devel,Real Estate Services
+CSRA,CSRA INC,Information Technology,US12650T1043,Software & Services,IT Services,IT Consulting & Other Services
+CSX,CSX CORP,Industrials,US1264081035,Transportation,Ground Transportation,Rail Transportation
+CTAS,CINTAS CORP,Industrials,US1729081059,Commercial & Professional Serv,Commercial Services & Supplies,Diversified Support Services
+CTLT,CATALENT INC,Health Care,US1488061029,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+CTRA,COTERRA ENERGY I,Energy,US1270971039,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+CTSH,COGNIZANT TECH-A,Information Technology,US1924461023,Software & Services,IT Services,IT Consulting & Other Services
+CTVA,CORTEVA INC,Materials,US22052L1044,Materials,Chemicals,Fertilizers & Agricultural Che
+CTXS,CITRIX SYSTEMS,Information Technology,US1773761002,Software & Services,Software,Application Software
+CVC,CABLEVISION SY-A,Communication Services,US12686C1099,Media & Entertainment,Media,Cable & Satellite
+CVET,COVETRUS INC,Health Care,US22304C1009,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Distributors
+CVS,CVS HEALTH CORP,Health Care,US1266501006,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Services
+CVX,CHEVRON CORP,Energy,US1667641005,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas
+CXO,CONCHO RESOURCES,Energy,US20605P1012,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+CZR,CAESARS ENTERTAI,Consumer Discretionary,US12769G1004,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+D,DOMINION ENERGY,Utilities,US25746U1097,Utilities,Multi-Utilities,Multi-Utilities
+DAL,DELTA AIR LI,Industrials,US2473617023,Transportation,Passenger Airlines,Passenger Airlines
+DASH,DOORDASH INC-A,Consumer Discretionary,US25809K1051,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants
+DAY,DAYFORCE INC,Industrials,US15677J1088,Commercial & Professional Serv,Professional Services,Human Resource & Employment Se
+DD,DUPONT DE NEMOUR,Materials,US26614N1028,Materials,Chemicals,Specialty Chemicals
+DDOG,DATADOG INC-A,Information Technology,US23804L1035,Software & Services,Software,Application Software
+DE,DEERE & CO,Industrials,US2441991054,Capital Goods,Machinery,Agricultural & Farm Machinery
+DECK,DECKERS OUTDOOR,Consumer Discretionary,US2435371073,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo",Footwear
+DELL,DELL TECHN-C,Information Technology,US24703L2025,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+DFS,DISCOVER FINANCI,Financials,US2547091080,Financial Services,Consumer Finance,Consumer Finance
+DG,DOLLAR GENERAL C,Consumer Staples,US2566771059,Consumer Staples Distribution,Consumer Staples Distribution,Consumer Staples Merchandise R
+DGX,QUEST DIAGNOSTIC,Health Care,US74834L1008,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Services
+DHI,DR HORTON INC,Consumer Discretionary,US23331A1097,Consumer Durables & Apparel,Household Durables,Homebuilding
+DHR,DANAHER CORP,Health Care,US2358511028,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+DIS,WALT DISNEY CO/T,Communication Services,US2546871060,Media & Entertainment,Entertainment,Movies & Entertainment
+DISCA,WARNER BROS DISC,Communication Services,US25470F1049,Media & Entertainment,Entertainment,Movies & Entertainment
+DISCK,DISCOVERY INC-C,Communication Services,US25470F3029,Media & Entertainment,Entertainment,Movies & Entertainment
+DISH,DISH NETWORK-A,Communication Services,US25470M1099,Media & Entertainment,Media,Cable & Satellite
+DLR,DIGITAL REALTY,Real Estate,US2538681030,Equity Real Estate Investment,Specialized REITs,Data Center REITs
+DLTR,DOLLAR TREE INC,Consumer Staples,US2567461080,Consumer Staples Distribution,Consumer Staples Distribution,Consumer Staples Merchandise R
+DNRCQ,DENBURY INC-BANK,Energy,US2479162081,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+DOC,HEALTHPEAK PROPE,Real Estate,US42250P1030,Equity Real Estate Investment,Health Care REITs,Health Care REITs
+DOFSQ,DIAMOND OFFSHORE,Energy,US25271C1027,Energy,Energy Equipment & Services,Oil & Gas Drilling
+DOV,DOVER CORP,Industrials,US2600031080,Capital Goods,Machinery,Industrial Machinery & Supplie
+DOW,DOW INC,Materials,US2605571031,Materials,Chemicals,Commodity Chemicals
+DPZ,DOMINO'S PIZZA,Consumer Discretionary,US25754A2015,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants
+DRE,DUKE REALTY CORP,Real Estate,US2644115055,Equity Real Estate Investment,Industrial REITs,Industrial REITs
+DRI,DARDEN RESTAURAN,Consumer Discretionary,US2371941053,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants
+DTE,DTE ENERGY CO,Utilities,US2333311072,Utilities,Multi-Utilities,Multi-Utilities
+DUK,DUKE ENERGY CORP,Utilities,US26441C2044,Utilities,Electric Utilities,Electric Utilities
+DVA,DAVITA INC,Health Care,US23918K1088,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Services
+DVN,DEVON ENERGY CO,Energy,US25179M1036,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+DXC,DXC TECHNOLOGY C,Information Technology,US23355L1061,Software & Services,IT Services,IT Consulting & Other Services
+DXCM,DEXCOM,Health Care,US2521311074,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+EA,ELECTRONIC ARTS,Communication Services,US2855121099,Media & Entertainment,Entertainment,Interactive Home Entertainment
+EBAY,EBAY INC,Consumer Discretionary,US2786421030,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+ECL,ECOLAB INC,Materials,US2788651006,Materials,Chemicals,Specialty Chemicals
+ED,CONS EDISON INC,Utilities,US2091151041,Utilities,Multi-Utilities,Multi-Utilities
+EFX,EQUIFAX INC,Industrials,US2944291051,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+EG,EVEREST GROUP LT,Financials,BMG3223R1088,Insurance,Insurance,Reinsurance
+EIX,EDISON INTL,Utilities,US2810201077,Utilities,Electric Utilities,Electric Utilities
+EL,ESTEE LAUDER,Consumer Staples,US5184391044,Household & Personal Products,Personal Care Products,Personal Care Products
+ELV,ELEVANCE HEALTH,Health Care,US0367521038,Health Care Equipment & Servic,Health Care Providers & Servic,Managed Health Care
+EMBC,EMBECTA CORP,Health Care,US29082K1051,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Supplies
+EMN,EASTMAN CHEMICAL,Materials,US2774321002,Materials,Chemicals,Specialty Chemicals
+EMR,EMERSON ELEC CO,Industrials,US2910111044,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+ENDPQ,ENDO INTERNATION,Health Care,IE00BJ3V9050,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+ENPH,ENPHASE ENERGY,Information Technology,US29355A1079,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductor Materials & Equi
+EOG,EOG RESOURCES,Energy,US26875P1012,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+EPAM,EPAM SYSTEMS INC,Information Technology,US29414B1044,Software & Services,IT Services,IT Consulting & Other Services
+EQIX,EQUINIX INC,Real Estate,US29444U7000,Equity Real Estate Investment,Specialized REITs,Data Center REITs
+EQR,EQUITY RESIDENTI,Real Estate,US29476L1070,Equity Real Estate Investment,Residential REITs,Multi-Family Residential REITs
+EQT,EQT CORP,Energy,US26884L1098,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+ERIE,ERIE INDEMNITY-A,Financials,US29530P1021,Insurance,Insurance,Property & Casualty Insurance
+ES,EVERSOURCE ENERG,Utilities,US30040W1080,Utilities,Electric Utilities,Electric Utilities
+ESRX,EVERNORTH HEALTH,Health Care,US30219G1085,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Services
+ESS,ESSEX PROPERTY,Real Estate,US2971781057,Equity Real Estate Investment,Residential REITs,Multi-Family Residential REITs
+ETFC,E*TRADE FINANCIA,Financials,US2692464017,Financial Services,Capital Markets,Investment Banking & Brokerage
+ETN,EATON CORP PLC,Industrials,IE00B8KQN827,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+ETR,ENTERGY CORP,Utilities,US29364G1031,Utilities,Electric Utilities,Electric Utilities
+ETSY,ETSY INC,Consumer Discretionary,US29786A1060,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+EVHC,ENVISION HEALTHC,Health Care,US29414D1000,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Services
+EVRG,EVERGY INC,Utilities,US30034W1062,Utilities,Electric Utilities,Electric Utilities
+EW,EDWARDS LIFE,Health Care,US28176E1082,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+EXC,EXELON CORP,Utilities,US30161N1019,Utilities,Electric Utilities,Electric Utilities
+EXE,EXPAND ENERGY CO,Energy,US1651677353,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+EXPD,EXPEDITORS INTL,Industrials,US3021301094,Transportation,Air Freight & Logistics,Air Freight & Logistics
+EXPE,EXPEDIA GROUP IN,Consumer Discretionary,US30212P3038,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+EXR,EXTRA SPACE STOR,Real Estate,US30225T1025,Equity Real Estate Investment,Specialized REITs,Self-Storage REITs
+F,FORD MOTOR CO,Consumer Discretionary,US3453708600,Automobiles & Components,Automobiles,Automobile Manufacturers
+FANG,DIAMONDBACK ENER,Energy,US25278X1090,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+FAST,FASTENAL CO,Industrials,US3119001044,Capital Goods,Trading Companies & Distributo,Trading Companies & Distributo
+FBIN,FORTUNE BRANDS I,Industrials,US34964C1062,Capital Goods,Building Products,Building Products
+FCX,FREEPORT-MCMORAN,Materials,US35671D8570,Materials,Metals & Mining,Copper
+FDO,FAMILY DOLLAR ST,,US3070001090,,,
+FDS,FACTSET RESEARCH,Financials,US3030751057,Financial Services,Capital Markets,Financial Exchanges & Data
+FDX,FEDEX CORP,Industrials,US31428X1063,Transportation,Air Freight & Logistics,Air Freight & Logistics
+FE,FIRSTENERGY CORP,Utilities,US3379321074,Utilities,Electric Utilities,Electric Utilities
+FFIV,F5 INC,Information Technology,US3156161024,Technology Hardware & Equipmen,Communications Equipment,Communications Equipment
+FI,FISERV INC,Financials,US3377381088,Financial Services,Financial Services,Transaction & Payment Processi
+FICO,FAIR ISAAC CORP,Information Technology,US3032501047,Software & Services,Software,Application Software
+FIS,FIDELITY NATIONA,Financials,US31620M1062,Financial Services,Financial Services,Transaction & Payment Processi
+FITB,FIFTH THIRD BANC,Financials,US3167731005,Banks,Banks,Diversified Banks
+FL,FOOT LOCKER INC,Consumer Discretionary,US3448491049,Consumer Discretionary Distrib,Specialty Retail,Apparel Retail
+FLIR,FLIR SYSTEMS,Information Technology,US3024451011,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Equipment & Instrum
+FLR,FLUOR CORP,Industrials,US3434121022,Capital Goods,Construction & Engineering,Construction & Engineering
+FLS,FLOWSERVE CORP,Industrials,US34354P1057,Capital Goods,Machinery,Industrial Machinery & Supplie
+FMC,FMC CORP,Materials,US3024913036,Materials,Chemicals,Fertilizers & Agricultural Che
+FOSL,FOSSIL GROUP INC,Consumer Discretionary,US34988V1061,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+FOX,FOX CORP - B,Communication Services,US35137L2043,Media & Entertainment,Media,Broadcasting
+FOXA,FOX CORP - A,Communication Services,US35137L1052,Media & Entertainment,Media,Broadcasting
+FRCB,FIRST REPUBLIC B,Financials,US33616C1009,Banks,Banks,Regional Banks
+FRT,FED REALTY INVS,Real Estate,US3137451015,Equity Real Estate Investment,Retail REITs,Retail REITs
+FSLR,FIRST SOLAR INC,Information Technology,US3364331070,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+FTI,TECHNIPFMC PLC,Energy,GB00BDSFG982,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services
+FTNT,FORTINET INC,Information Technology,US34959E1091,Software & Services,Software,Systems Software
+FTRCQ,FRONTIER COMMUNI,Communication Services,US35906A3068,Telecommunication Services,Diversified Telecommunication,Integrated Telecommunication S
+FTV,FORTIVE CORP,Industrials,US34959J1088,Capital Goods,Machinery,Industrial Machinery & Supplie
+GAP,GAP INC/THE,Consumer Discretionary,US3647601083,Consumer Discretionary Distrib,Specialty Retail,Apparel Retail
+GAS,SOUTHERN CO GAS,Utilities,US0012041069,Utilities,Gas Utilities,Gas Utilities
+GD,GENERAL DYNAMICS,Industrials,US3695501086,Capital Goods,Aerospace & Defense,Aerospace & Defense
+GDDY,GODADDY INC-A,Information Technology,US3802371076,Software & Services,IT Services,Internet Services & Infrastruc
+GE,GENERAL ELECTRIC,Industrials,US3696043013,Capital Goods,Aerospace & Defense,Aerospace & Defense
+GEHC,GE HEALTHCARE TE,Health Care,US36266G1076,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+GEN,GEN DIGITAL INC,Information Technology,US6687711084,Software & Services,Software,Systems Software
+GEV,GE VERNOVA INC,Industrials,US36828A1016,Capital Goods,Electrical Equipment,Heavy Electrical Equipment
+GGP,GGP INC,Real Estate,US36174X1019,Equity Real Estate Investment,Retail REITs,Retail REITs
+GILD,GILEAD SCIENCES,Health Care,US3755581036,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+GIS,GENERAL MILLS IN,Consumer Staples,US3703341046,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+GL,GLOBE LIFE INC,Financials,US37959E1029,Insurance,Insurance,Life & Health Insurance
+GLW,CORNING INC,Information Technology,US2193501051,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+GM,GENERAL MOTORS C,Consumer Discretionary,US37045V1008,Automobiles & Components,Automobiles,Automobile Manufacturers
+GMCR,KEURIG GREEN MOU,Consumer Staples,US49271M1009,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+GME,GAMESTOP CORP-A,Consumer Discretionary,US36467W1099,Consumer Discretionary Distrib,Specialty Retail,Computer & Electronics Retail
+GNRC,GENERAC HOLDINGS,Industrials,US3687361044,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+GNW,GENWORTH FINANCI,Financials,US37247D1063,Insurance,Insurance,Life & Health Insurance
+GOOG,ALPHABET INC-C,Communication Services,US02079K1079,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+GOOGL,ALPHABET INC-A,Communication Services,US02079K3059,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+GPC,GENUINE PARTS CO,Consumer Discretionary,US3724601055,Consumer Discretionary Distrib,Distributors,Distributors
+GPN,GLOBAL PAYMENTS,Financials,US37940X1028,Financial Services,Financial Services,Transaction & Payment Processi
+GRMN,GARMIN LTD,Consumer Discretionary,CH0114405324,Consumer Durables & Apparel,Household Durables,Consumer Electronics
+GS,GOLDMAN SACHS GP,Financials,US38141G1040,Financial Services,Capital Markets,Investment Banking & Brokerage
+GT,GOODYEAR TIRE,Consumer Discretionary,US3825501014,Automobiles & Components,Automobile Components,Tires & Rubber
+GWW,WW GRAINGER INC,Industrials,US3848021040,Capital Goods,Trading Companies & Distributo,Trading Companies & Distributo
+HAL,HALLIBURTON CO,Energy,US4062161017,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services
+HAR,HARMAN INTL,Consumer Discretionary,US4130861093,Consumer Durables & Apparel,Household Durables,Consumer Electronics
+HAS,HASBRO INC,Consumer Discretionary,US4180561072,Consumer Durables & Apparel,Leisure Products,Leisure Products
+HBAN,HUNTINGTON BANC,Financials,US4461501045,Banks,Banks,Regional Banks
+HBI,HANESBRANDS INC,Consumer Discretionary,US4103451021,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+HCA,HCA HEALTHCARE I,Health Care,US40412C1018,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Facilities
+HCBK,HUDSON CITY BNCP,,US4436831071,,,
+HD,HOME DEPOT INC,Consumer Discretionary,US4370761029,Consumer Discretionary Distrib,Specialty Retail,Home Improvement Retail
+HES,HESS CORP,Energy,US42809H1077,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+HFC,HOLLYFRONTIER CO,Energy,US4361061082,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+HIG,HARTFORD INSURAN,Financials,US4165151048,Insurance,Insurance,Property & Casualty Insurance
+HII,HUNTINGTON INGAL,Industrials,US4464131063,Capital Goods,Aerospace & Defense,Aerospace & Defense
+HLT,HILTON WORLDWIDE,Consumer Discretionary,US43300A2033,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+HOG,HARLEY-DAVIDSON,Consumer Discretionary,US4128221086,Automobiles & Components,Automobiles,Motorcycle Manufacturers
+HOLX,HOLOGIC INC,Health Care,US4364401012,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+HON,HONEYWELL INTL,Industrials,US4385161066,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+HOT,STARWOOD HOTELS,Consumer Discretionary,US85590A4013,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+HP,HELMERICH & PAYN,Energy,US4234521015,Energy,Energy Equipment & Services,Oil & Gas Drilling
+HPE,HEWLETT PACKA,Information Technology,US42824C1099,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+HPQ,HP INC,Information Technology,US40434L1052,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+HRB,H&R BLOCK INC,Consumer Discretionary,US0936711052,Consumer Services,Diversified Consumer Services,Specialized Consumer Services
+HRL,HORMEL FOODS CRP,Consumer Staples,US4404521001,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+HSIC,HENRY SCHEIN INC,Health Care,US8064071025,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Distributors
+HSP,HOSPIRA INC,Health Care,US4410601003,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+HST,HOST HOTELS & RE,Real Estate,US44107P1049,Equity Real Estate Investment,Hotel & Resort REITs,Hotel & Resort REITs
+HSY,HERSHEY CO/THE,Consumer Staples,US4278661081,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+HUBB,HUBBELL INC,Industrials,US4435106079,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+HUM,HUMANA INC,Health Care,US4448591028,Health Care Equipment & Servic,Health Care Providers & Servic,Managed Health Care
+HWM,HOWMET AEROSPACE,Industrials,US4432011082,Capital Goods,Aerospace & Defense,Aerospace & Defense
+IBM,IBM,Information Technology,US4592001014,Software & Services,IT Services,IT Consulting & Other Services
+ICE,INTERCONT EXCH I,Financials,US45866F1049,Financial Services,Capital Markets,Financial Exchanges & Data
+IDXX,IDEXX LABS,Health Care,US45168D1046,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+IEX,IDEX CORP,Industrials,US45167R1041,Capital Goods,Machinery,Industrial Machinery & Supplie
+IFF,INTL FLVR & FRAG,Materials,US4595061015,Materials,Chemicals,Specialty Chemicals
+IILGV,INTERVAL LEI-W/I,Consumer Discretionary,US46113M1080,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+ILMN,ILLUMINA INC,Health Care,US4523271090,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+INCY,INCYTE CORP,Health Care,US45337C1027,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+INTC,INTEL CORP,Information Technology,US4581401001,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+INTU,INTUIT INC,Information Technology,US4612021034,Software & Services,Software,Application Software
+INVH,INVITATION HOMES,Real Estate,US46187W1071,Equity Real Estate Investment,Residential REITs,Single-Family Residential REIT
+IP,INTL PAPER CO,Materials,US4601461035,Materials,Containers & Packaging,Paper & Plastic Packaging Prod
+IPG,INTERPUBLIC GRP,Communication Services,US4606901001,Media & Entertainment,Media,Advertising
+IPGP,IPG PHOTONICS,Information Technology,US44980X1090,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Manufacturing Servi
+IQV,IQVIA HOLDINGS I,Health Care,US46266C1053,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+IR,INGERSOLL-RAND I,Industrials,US45687V1061,Capital Goods,Machinery,Industrial Machinery & Supplie
+IRM,IRON MOUNTAIN,Real Estate,US46284V1017,Equity Real Estate Investment,Specialized REITs,Other Specialized REITs
+ISRG,INTUITIVE SURGIC,Health Care,US46120E6023,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+IT,GARTNER INC,Information Technology,US3666511072,Software & Services,IT Services,IT Consulting & Other Services
+ITW,ILLINOIS TOOL WO,Industrials,US4523081093,Capital Goods,Machinery,Industrial Machinery & Supplie
+IVZ,INVESCO LTD,Financials,BMG491BT1088,Financial Services,Capital Markets,Asset Management & Custody Ban
+J,JACOBS SOLUTIONS,Industrials,US46982L1089,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+JBHT,HUNT (JB) TRANS,Industrials,US4456581077,Transportation,Ground Transportation,Cargo Ground Transportation
+JBL,JABIL INC,Information Technology,US4663131039,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Manufacturing Servi
+JCI,JOHNSON CONTROLS,Industrials,IE00BY7QL619,Capital Goods,Building Products,Building Products
+JEF,JEFFERIES FINANC,Financials,US47233W1099,Financial Services,Capital Markets,Investment Banking & Brokerage
+JKHY,JACK HENRY,Financials,US4262811015,Financial Services,Financial Services,Transaction & Payment Processi
+JNJ,JOHNSON&JOHNSON,Health Care,US4781601046,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+JNPR,JUNIPER NETWORKS,Information Technology,US48203R1041,Technology Hardware & Equipmen,Communications Equipment,Communications Equipment
+JOY,KOMATSU MINING C,Industrials,US4811651086,Capital Goods,Machinery,Construction Machinery & Heavy
+JPM,JPMORGAN CHASE,Financials,US46625H1005,Banks,Banks,Diversified Banks
+JWN,NORDSTROM INC,Consumer Discretionary,US6556641008,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+K,KELLANOVA,Consumer Staples,US4878361082,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+KDP,KEURIG DR PEPPER,Consumer Staples,US49271V1008,"Food, Beverage & Tobacco",Beverages,Soft Drinks & Non-alcoholic Be
+KEY,KEYCORP,Financials,US4932671088,Banks,Banks,Diversified Banks
+KEYS,KEYSIGHT TEC,Information Technology,US49338L1035,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Equipment & Instrum
+KHC,KRAFT HEINZ CO/T,Consumer Staples,US5007541064,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+KIM,KIMCO REALTY,Real Estate,US49446R1095,Equity Real Estate Investment,Retail REITs,Retail REITs
+KKR,KKR & CO INC,Financials,US48251W1045,Financial Services,Capital Markets,Asset Management & Custody Ban
+KLAC,KLA CORP,Information Technology,US4824801009,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductor Materials & Equi
+KMB,KIMBERLY-CLARK,Consumer Staples,US4943681035,Household & Personal Products,Household Products,Household Products
+KMI,KINDER MORGAN IN,Energy,US49456B1017,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transporta
+KMX,CARMAX INC,Consumer Discretionary,US1431301027,Consumer Discretionary Distrib,Specialty Retail,Automotive Retail
+KO,COCA-COLA CO/THE,Consumer Staples,US1912161007,"Food, Beverage & Tobacco",Beverages,Soft Drinks & Non-alcoholic Be
+KR,KROGER CO,Consumer Staples,US5010441013,Consumer Staples Distribution,Consumer Staples Distribution,Food Retail
+KRFT,KRAFT FOODS GROU,Consumer Staples,US50076Q1067,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+KSS,KOHLS CORP,Consumer Discretionary,US5002551043,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+KSU,KANSAS CITY SOUT,Industrials,US4851703029,Transportation,Ground Transportation,Rail Transportation
+KVUE,KENVUE INC,Consumer Staples,US49177J1025,Household & Personal Products,Personal Care Products,Personal Care Products
+L,LOEWS CORP,Financials,US5404241086,Insurance,Insurance,Property & Casualty Insurance
+LDOS,LEIDOS HOLDINGS,Industrials,US5253271028,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+LEG,LEGGETT & PLATT,Consumer Discretionary,US5246601075,Consumer Durables & Apparel,Household Durables,Home Furnishings
+LEN,LENNAR CORP-A,Consumer Discretionary,US5260571048,Consumer Durables & Apparel,Household Durables,Homebuilding
+LEN/B,LENNAR CORP-B,Consumer Discretionary,US5260573028,Consumer Durables & Apparel,Household Durables,Homebuilding
+LH,LABCORP HOLDINGS,Health Care,US5049221055,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Services
+LHX,L3HARRIS TECHNOL,Industrials,US5024311095,Capital Goods,Aerospace & Defense,Aerospace & Defense
+LII,LENNOX INTL INC,Industrials,US5261071071,Capital Goods,Building Products,Building Products
+LIN,LINDE PLC,Materials,IE000S9YS762,Materials,Chemicals,Industrial Gases
+LKQ,LKQ CORP,Consumer Discretionary,US5018892084,Consumer Discretionary Distrib,Distributors,Distributors
+LLTC,LINEAR TECH CORP,Information Technology,US5356781063,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+LLY,ELI LILLY & CO,Health Care,US5324571083,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+LM,LEGG MASON INC,Financials,US5249011058,Financial Services,Capital Markets,Asset Management & Custody Ban
+LMT,LOCKHEED MARTIN,Industrials,US5398301094,Capital Goods,Aerospace & Defense,Aerospace & Defense
+LNC,LINCOLN NATL CRP,Financials,US5341871094,Insurance,Insurance,Life & Health Insurance
+LNT,ALLIANT ENERGY,Utilities,US0188021085,Utilities,Electric Utilities,Electric Utilities
+LO,LORILLARD INC,Consumer Staples,US5441471019,"Food, Beverage & Tobacco",Tobacco,Tobacco
+LOW,LOWE'S COS INC,Consumer Discretionary,US5486611073,Consumer Discretionary Distrib,Specialty Retail,Home Improvement Retail
+LRCX,LAM RESEARCH,Information Technology,US5128073062,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductor Materials & Equi
+LULU,LULULEMON ATH,Consumer Discretionary,US5500211090,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+LUMN,LUMEN TECHNOLOGI,Communication Services,US5502411037,Telecommunication Services,Diversified Telecommunication,Alternative Carriers
+LUV,SOUTHWEST AIR,Industrials,US8447411088,Transportation,Passenger Airlines,Passenger Airlines
+LVLT,LEVEL 3 COMM INC,Communication Services,US52729N3089,Telecommunication Services,Diversified Telecommunication,Alternative Carriers
+LVS,LAS VEGAS SANDS,Consumer Discretionary,US5178341070,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+LW,LAMB WESTON,Consumer Staples,US5132721045,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+LYB,LYONDELLBASELL-A,Materials,NL0009434992,Materials,Chemicals,Commodity Chemicals
+LYV,LIVE NATION ENTE,Communication Services,US5380341090,Media & Entertainment,Entertainment,Movies & Entertainment
+M,MACY'S INC,Consumer Discretionary,US55616P1049,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+MA,MASTERCARD INC-A,Financials,US57636Q1040,Financial Services,Financial Services,Transaction & Payment Processi
+MAA,MID-AMERICA APAR,Real Estate,US59522J1034,Equity Real Estate Investment,Residential REITs,Multi-Family Residential REITs
+MAC,MACERICH CO,Real Estate,US5543821012,Equity Real Estate Investment,Retail REITs,Retail REITs
+MAR,MARRIOTT INTL-A,Consumer Discretionary,US5719032022,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+MAS,MASCO CORP,Industrials,US5745991068,Capital Goods,Building Products,Building Products
+MAT,MATTEL INC,Consumer Discretionary,US5770811025,Consumer Durables & Apparel,Leisure Products,Leisure Products
+MBC,MASTERBRAND,Industrials,US57638P1049,Capital Goods,Building Products,Building Products
+MCD,MCDONALDS CORP,Consumer Discretionary,US5801351017,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants
+MCHP,MICROCHIP TECH,Information Technology,US5950171042,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+MCK,MCKESSON CORP,Health Care,US58155Q1031,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Distributors
+MCO,MOODY'S CORP,Financials,US6153691059,Financial Services,Capital Markets,Financial Exchanges & Data
+MDLZ,MONDELEZ INTER-A,Consumer Staples,US6092071058,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+MDT,MEDTRONIC PLC,Health Care,IE00BTN1Y115,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+MET,METLIFE INC,Financials,US59156R1086,Insurance,Insurance,Life & Health Insurance
+META,META PLATFORMS-A,Communication Services,US30303M1027,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+MGM,MGM RESORTS INTE,Consumer Discretionary,US5529531015,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+MHK,MOHAWK INDS,Consumer Discretionary,US6081901042,Consumer Durables & Apparel,Household Durables,Home Furnishings
+MJN,MEAD JOHNSON,Consumer Staples,US5828391061,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+MKC,MCCORMICK-N/V,Consumer Staples,US5797802064,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+MKTX,MARKETAXESS,Financials,US57060D1081,Financial Services,Capital Markets,Financial Exchanges & Data
+MLM,MARTIN MAR MTLS,Materials,US5732841060,Materials,Construction Materials,Construction Materials
+MMC,MARSH & MCLENNAN,Financials,US5717481023,Insurance,Insurance,Insurance Brokers
+MMM,3M CO,Industrials,US88579Y1010,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+MNKKQ,MALLINCKRODT PLC,Health Care,IE00BBGT3753,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+MNST,MONSTER BEVERAGE,Consumer Staples,US61174X1090,"Food, Beverage & Tobacco",Beverages,Soft Drinks & Non-alcoholic Be
+MO,ALTRIA GROUP INC,Consumer Staples,US02209S1033,"Food, Beverage & Tobacco",Tobacco,Tobacco
+MOH,MOLINA HEALTHCAR,Health Care,US60855R1005,Health Care Equipment & Servic,Health Care Providers & Servic,Managed Health Care
+MOS,MOSAIC CO/THE,Materials,US61945C1036,Materials,Chemicals,Fertilizers & Agricultural Che
+MPC,MARATHON PETROLE,Energy,US56585A1025,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+MPWR,MONOLITHIC POWER,Information Technology,US6098391054,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+MRK,MERCK & CO,Health Care,US58933Y1055,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+MRNA,MODERNA INC,Health Care,US60770K1079,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+MRO,MARATHON OIL,Energy,US5658491064,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+MRP,MILLROSE PROPERT,Real Estate,US6011371027,Equity Real Estate Investment,Specialized REITs,Other Specialized REITs
+MS,MORGAN STANLEY,Financials,US6174464486,Financial Services,Capital Markets,Investment Banking & Brokerage
+MSCI,MSCI INC,Financials,US55354G1004,Financial Services,Capital Markets,Financial Exchanges & Data
+MSFT,MICROSOFT CORP,Information Technology,US5949181045,Software & Services,Software,Systems Software
+MSI,MOTOROLA SOLUTIO,Information Technology,US6200763075,Technology Hardware & Equipmen,Communications Equipment,Communications Equipment
+MTB,M&T BANK CORP,Financials,US55261F1049,Banks,Banks,Regional Banks
+MTCH,MATCH GROUP INC,Communication Services,US57667L1070,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+MTD,METTLER-TOLEDO,Health Care,US5926881054,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+MU,MICRON TECH,Information Technology,US5951121038,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+MUR,MURPHY OIL CORP,Energy,US6267171022,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+MWV,WESTROCK MWV LLC,Materials,US5833341077,Materials,Containers & Packaging,Paper & Plastic Packaging Prod
+MXIM,MAXIM INTEGRATED,Information Technology,US57772K1016,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+MYL,MYLAN NV,Health Care,NL0011031208,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+NAVI,NAVIENT CORP,Financials,US63938C1080,Financial Services,Consumer Finance,Consumer Finance
+NBL,NOBLE ENERGY INC,Energy,US6550441058,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+NBR,NABORS INDS LTD,Energy,BMG6359F1370,Energy,Energy Equipment & Services,Oil & Gas Drilling
+NCLH,NORWEGIAN CRUISE,Consumer Discretionary,BMG667211046,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+NDAQ,NASDAQ INC,Financials,US6311031081,Financial Services,Capital Markets,Financial Exchanges & Data
+NDSN,NORDSON CORP,Industrials,US6556631025,Capital Goods,Machinery,Industrial Machinery & Supplie
+NEBLQ,NOBLE HOLDING CO,Energy,GB00BFG3KF26,Energy,Energy Equipment & Services,Oil & Gas Drilling
+NEE,NEXTERA ENERGY,Utilities,US65339F1012,Utilities,Electric Utilities,Electric Utilities
+NEM,NEWMONT CORP,Materials,US6516391066,Materials,Metals & Mining,Gold
+NFLX,NETFLIX INC,Communication Services,US64110L1061,Media & Entertainment,Entertainment,Movies & Entertainment
+NFX,OVINTIV EXPLORAT,Energy,US6512901082,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+NI,NISOURCE INC,Utilities,US65473P1057,Utilities,Multi-Utilities,Multi-Utilities
+NKE,NIKE INC -CL B,Consumer Discretionary,US6541061031,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo",Footwear
+NKTR,NEKTAR THERAPEUT,Health Care,US6402683063,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+NLSN,NIELSEN HOLDINGS,Industrials,GB00BWFY5505,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+NOC,NORTHROP GRUMMAN,Industrials,US6668071029,Capital Goods,Aerospace & Defense,Aerospace & Defense
+NOV,NOV INC,Energy,US62955J1034,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services
+NOW,SERVICENOW INC,Information Technology,US81762P1021,Software & Services,Software,Systems Software
+NRG,NRG ENERGY,Utilities,US6293775085,Utilities,Electric Utilities,Electric Utilities
+NSC,NORFOLK SOUTHERN,Industrials,US6558441084,Transportation,Ground Transportation,Rail Transportation
+NTAP,NETAPP INC,Information Technology,US64110D1046,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+NTRS,NORTHERN TRUST,Financials,US6658591044,Financial Services,Capital Markets,Asset Management & Custody Ban
+NUE,NUCOR CORP,Materials,US6703461052,Materials,Metals & Mining,Steel
+NVDA,NVIDIA CORP,Information Technology,US67066G1040,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+NVR,NVR INC,Consumer Discretionary,US62944T1051,Consumer Durables & Apparel,Household Durables,Homebuilding
+NWL,NEWELL BRANDS IN,Consumer Discretionary,US6512291062,Consumer Durables & Apparel,Household Durables,Housewares & Specialties
+NWS,NEWS CORP-CL B,Communication Services,US65249B2088,Media & Entertainment,Media,Publishing
+NWSA,NEWS CORP-CL A,Communication Services,US65249B1098,Media & Entertainment,Media,Publishing
+NXPI,NXP SEMICONDUCTO,Information Technology,NL0009538784,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+O,REALTY INCOME,Real Estate,US7561091049,Equity Real Estate Investment,Retail REITs,Retail REITs
+ODFL,OLD DOMINION FRT,Industrials,US6795801009,Transportation,Ground Transportation,Cargo Ground Transportation
+OGN,ORGANON & CO,Health Care,US68622V1061,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+OI,O-I GLASS INC,Materials,US67098H1041,Materials,Containers & Packaging,"Metal, Glass & Plastic Contain"
+OKE,ONEOK INC,Energy,US6826801036,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transporta
+OMC,OMNICOM GROUP,Communication Services,US6819191064,Media & Entertainment,Media,Advertising
+ON,ON SEMICONDUCTOR,Information Technology,US6821891057,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+ORCL,ORACLE CORP,Information Technology,US68389X1054,Software & Services,Software,Systems Software
+ORLY,O'REILLY AUTOMOT,Consumer Discretionary,US67103H1077,Consumer Discretionary Distrib,Specialty Retail,Automotive Retail
+OTIS,OTIS WORLDWI,Industrials,US68902V1070,Capital Goods,Machinery,Industrial Machinery & Supplie
+OXY,OCCIDENTAL PETE,Energy,US6745991058,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas
+PANW,PALO ALTO NETWOR,Information Technology,US6974351057,Software & Services,Software,Systems Software
+PARA,PARAMOUNT GLOB-B,Communication Services,US92556H2067,Media & Entertainment,Media,Broadcasting
+PAYC,PAYCOM SOFTWARE,Industrials,US70432V1026,Commercial & Professional Serv,Professional Services,Human Resource & Employment Se
+PAYX,PAYCHEX INC,Industrials,US7043261079,Commercial & Professional Serv,Professional Services,Human Resource & Employment Se
+PBCT,PEOPLE'S UNITED,Financials,US7127041058,Banks,Banks,Regional Banks
+PBI,PITNEY BOWES INC,Industrials,US7244791007,Commercial & Professional Serv,Commercial Services & Supplies,Office Services & Supplies
+PCAR,PACCAR INC,Industrials,US6937181088,Capital Goods,Machinery,Construction Machinery & Heavy
+PCG,PG&E CORP,Utilities,US69331C1080,Utilities,Electric Utilities,Electric Utilities
+PCP,PRECISION CASTPT,Industrials,US7401891053,Capital Goods,Aerospace & Defense,Aerospace & Defense
+PDCO,PATTERSON COS,Health Care,US7033951036,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Distributors
+PEG,PUB SERV ENTERP,Utilities,US7445731067,Utilities,Multi-Utilities,Multi-Utilities
+PENN,PENN ENTERTAINME,Consumer Discretionary,US7075691094,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+PEP,PEPSICO INC,Consumer Staples,US7134481081,"Food, Beverage & Tobacco",Beverages,Soft Drinks & Non-alcoholic Be
+PETM,PETSMART LLC,Consumer Discretionary,US7167681060,Consumer Discretionary Distrib,Specialty Retail,Other Specialty Retail
+PFE,PFIZER INC,Health Care,US7170811035,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+PFG,PRINCIPAL FINL,Financials,US74251V1026,Insurance,Insurance,Life & Health Insurance
+PG,PROCTER & GAMBLE,Consumer Staples,US7427181091,Household & Personal Products,Household Products,Household Products
+PGR,PROGRESSIVE CORP,Financials,US7433151039,Insurance,Insurance,Property & Casualty Insurance
+PH,PARKER HANNIFIN,Industrials,US7010941042,Capital Goods,Machinery,Industrial Machinery & Supplie
+PHM,PULTEGROUP INC,Consumer Discretionary,US7458671010,Consumer Durables & Apparel,Household Durables,Homebuilding
+PKG,PACKAGING CORP,Materials,US6951561090,Materials,Containers & Packaging,Paper & Plastic Packaging Prod
+PLD,PROLOGIS INC,Real Estate,US74340W1036,Equity Real Estate Investment,Industrial REITs,Industrial REITs
+PLTR,PALANTIR TECHN-A,Information Technology,US69608A1088,Software & Services,Software,Application Software
+PM,PHILIP MORRIS IN,Consumer Staples,US7181721090,"Food, Beverage & Tobacco",Tobacco,Tobacco
+PNC,PNC FINANCIAL SE,Financials,US6934751057,Banks,Banks,Diversified Banks
+PNR,PENTAIR PLC,Industrials,IE00BLS09M33,Capital Goods,Machinery,Industrial Machinery & Supplie
+PNW,PINNACLE WEST,Utilities,US7234841010,Utilities,Electric Utilities,Electric Utilities
+PODD,INSULET CORP,Health Care,US45784P1012,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+POOL,POOL CORP,Consumer Discretionary,US73278L1052,Consumer Discretionary Distrib,Distributors,Distributors
+PPG,PPG INDS INC,Materials,US6935061076,Materials,Chemicals,Specialty Chemicals
+PPL,PPL CORP,Utilities,US69351T1060,Utilities,Electric Utilities,Electric Utilities
+PRGO,PERRIGO CO PLC,Health Care,IE00BGH1M568,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+PRSP,PERSPECTA INC,Information Technology,US7153471005,Software & Services,IT Services,IT Consulting & Other Services
+PRU,PRUDENTL FINL,Financials,US7443201022,Insurance,Insurance,Life & Health Insurance
+PSA,PUBLIC STORAGE,Real Estate,US74460D1090,Equity Real Estate Investment,Specialized REITs,Self-Storage REITs
+PSX,PHILLIPS 66,Energy,US7185461040,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+PTC,PTC INC,Information Technology,US69370C1009,Software & Services,Software,Application Software
+PVH,PVH CORP,Consumer Discretionary,US6936561009,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+PWR,QUANTA SERVICES,Industrials,US74762E1029,Capital Goods,Construction & Engineering,Construction & Engineering
+PXD,PIONEER NATURAL,Energy,US7237871071,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+PYPL,PAYPAL HOLDINGS,Financials,US70450Y1038,Financial Services,Financial Services,Transaction & Payment Processi
+QCOM,QUALCOMM INC,Information Technology,US7475251036,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+QEP,QEP RESOURCES IN,Energy,US74733V1008,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+QRVO,QORVO INC,Information Technology,US74736K1016,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+R,RYDER SYSTEM INC,Industrials,US7835491082,Transportation,Ground Transportation,Cargo Ground Transportation
+RAI,REYNOLDS AMERICA,Consumer Staples,US7617131062,"Food, Beverage & Tobacco",Tobacco,Tobacco
+RCL,ROYAL CARIBBEAN,Consumer Discretionary,LR0008862868,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+REG,REGENCY CENTERS,Real Estate,US7588491032,Equity Real Estate Investment,Retail REITs,Retail REITs
+REGN,REGENERON PHARM,Health Care,US75886F1075,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+RF,REGIONS FINANCIA,Financials,US7591EP1005,Banks,Banks,Regional Banks
+RHI,ROBERT HALF INC,Industrials,US7703231032,Commercial & Professional Serv,Professional Services,Human Resource & Employment Se
+RHT,RED HAT INC,Information Technology,US7565771026,Software & Services,Software,Systems Software
+RIG,TRANSOCEAN LTD,Energy,CH0048265513,Energy,Energy Equipment & Services,Oil & Gas Drilling
+RJF,RAYMOND JAMES,Financials,US7547301090,Financial Services,Capital Markets,Investment Banking & Brokerage
+RL,RALPH LAUREN COR,Consumer Discretionary,US7512121010,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+RMD,RESMED INC,Health Care,US7611521078,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+ROK,ROCKWELL AUTOMAT,Industrials,US7739031091,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+ROL,ROLLINS INC,Industrials,US7757111049,Commercial & Professional Serv,Commercial Services & Supplies,Environmental & Facilities Ser
+ROP,ROPER TECHNOLOGI,Information Technology,US7766961061,Software & Services,Software,Application Software
+ROST,ROSS STORES INC,Consumer Discretionary,US7782961038,Consumer Discretionary Distrib,Specialty Retail,Apparel Retail
+RRC,RANGE RESOURCES,Energy,US75281A1097,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+RSG,REPUBLIC SVCS,Industrials,US7607591002,Commercial & Professional Serv,Commercial Services & Supplies,Environmental & Facilities Ser
+RTN,RAYTHEON CO,Industrials,US7551115071,Capital Goods,Aerospace & Defense,Aerospace & Defense
+RTX,RTX CORP,Industrials,US75513E1010,Capital Goods,Aerospace & Defense,Aerospace & Defense
+RVTY,REVVITY INC,Health Care,US7140461093,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+SBAC,SBA COMM CORP,Real Estate,US78410G1040,Equity Real Estate Investment,Specialized REITs,Telecom Tower REITs
+SBNY,SIGNATURE BANK,Financials,US82669G1040,Banks,Banks,Regional Banks
+SBUX,STARBUCKS CORP,Consumer Discretionary,US8552441094,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants
+SCG,SCANA CORP,Utilities,US80589M1027,Utilities,Multi-Utilities,Multi-Utilities
+SCHW,SCHWAB (CHARLES),Financials,US8085131055,Financial Services,Capital Markets,Investment Banking & Brokerage
+SEDG,SOLAREDGE TECHNO,Information Technology,US83417M1045,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductor Materials & Equi
+SEE,SEALED AIR CORP,Materials,US81211K1007,Materials,Containers & Packaging,Paper & Plastic Packaging Prod
+SHW,SHERWIN-WILLIAMS,Materials,US8243481061,Materials,Chemicals,Specialty Chemicals
+SIAL,SIGMA-ALDRICH,Materials,US8265521018,Materials,Chemicals,Specialty Chemicals
+SIG,SIGNET JEWELERS,Consumer Discretionary,BMG812761002,Consumer Discretionary Distrib,Specialty Retail,Other Specialty Retail
+SIVBQ,SVB FINANCIAL GR,Financials,US78486Q1013,Banks,Banks,Diversified Banks
+SJM,JM SMUCKER CO,Consumer Staples,US8326964058,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+SLB,SCHLUMBERGER LTD,Energy,AN8068571086,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services
+SLG,SL GREEN REALTY,Real Estate,US78440X8873,Equity Real Estate Investment,Office REITs,Office REITs
+SLVM,SYLVAMO CORP,Materials,US8713321029,Materials,Paper & Forest Products,Paper Products
+SMCI,SUPER MICRO COMP,Information Technology,US86800U3023,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+SNA,SNAP-ON INC,Industrials,US8330341012,Capital Goods,Machinery,Industrial Machinery & Supplie
+SNPS,SYNOPSYS INC,Information Technology,US8716071076,Software & Services,Software,Application Software
+SO,SOUTHERN CO,Utilities,US8425871071,Utilities,Electric Utilities,Electric Utilities
+SOLV,SOLVENTUM,Health Care,US83444M1018,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Supplies
+SPG,SIMON PROPERTY,Real Estate,US8288061091,Equity Real Estate Investment,Retail REITs,Retail REITs
+SPGI,S&P GLOBAL INC,Financials,US78409V1044,Financial Services,Capital Markets,Financial Exchanges & Data
+SPLS,STAPLES INC,Consumer Discretionary,US8550301027,Consumer Discretionary Distrib,Specialty Retail,Other Specialty Retail
+SRCL,STERICYCLE INC,Industrials,US8589121081,Commercial & Professional Serv,Commercial Services & Supplies,Environmental & Facilities Ser
+SRE,SEMPRA,Utilities,US8168511090,Utilities,Multi-Utilities,Multi-Utilities
+STE,STERIS PLC,Health Care,IE00BFY8C754,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+STJ,ST JUDE MEDICAL,Health Care,US7908491035,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+STLD,STEEL DYNAMICS,Materials,US8581191009,Materials,Metals & Mining,Steel
+STT,STATE ST CORP,Financials,US8574771031,Financial Services,Capital Markets,Asset Management & Custody Ban
+STX,SEAGATE TECHNOLO,Information Technology,IE00BKVD2N49,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+STZ,CONSTELLATION-A,Consumer Staples,US21036P1084,"Food, Beverage & Tobacco",Beverages,Distillers & Vintners
+SW,SMURFIT WESTROCK,Materials,IE00028FXN24,Materials,Containers & Packaging,Paper & Plastic Packaging Prod
+SWK,STANLEY BLACK &,Industrials,US8545021011,Capital Goods,Machinery,Industrial Machinery & Supplie
+SWKS,SKYWORKS SOLUTIO,Information Technology,US83088M1027,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+SWN,SOUTHWESTRN ENGY,Energy,US8454671095,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+SWY,SAFEWAY INC,Consumer Staples,US7865142084,Consumer Staples Distribution,Consumer Staples Distribution,Food Retail
+SYF,SYNCHRONY FINANC,Financials,US87165B1035,Financial Services,Consumer Finance,Consumer Finance
+SYK,STRYKER CORP,Health Care,US8636671013,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+SYY,SYSCO CORP,Consumer Staples,US8718291078,Consumer Staples Distribution,Consumer Staples Distribution,Food Distributors
+T,AT&T INC,Communication Services,US00206R1023,Telecommunication Services,Diversified Telecommunication,Integrated Telecommunication S
+TAP,MOLSON COORS-B,Consumer Staples,US60871R2094,"Food, Beverage & Tobacco",Beverages,Brewers
+TDC,TERADATA CORP,Information Technology,US88076W1036,Software & Services,Software,Systems Software
+TDG,TRANSDIGM GROUP,Industrials,US8936411003,Capital Goods,Aerospace & Defense,Aerospace & Defense
+TDY,TELEDYNE TECH,Information Technology,US8793601050,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Equipment & Instrum
+TECH,BIO-TECHNE CORP,Health Care,US09073M1045,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+TEG,INTEGRYS ENERGY,Utilities,US45822P1057,Utilities,Multi-Utilities,Multi-Utilities
+TEL,TE CONNECTIVITY,Information Technology,IE000IVNQZ81,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Manufacturing Servi
+TER,TERADYNE INC,Information Technology,US8807701029,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductor Materials & Equi
+TFC,TRUIST FINANCIAL,Financials,US89832Q1094,Banks,Banks,Regional Banks
+TFCF,TFCF CORP - B,Communication Services,US90130A4085,Media & Entertainment,Entertainment,Movies & Entertainment
+TFCFA,TFCF CORP,Communication Services,US90130A3095,Media & Entertainment,Entertainment,Movies & Entertainment
+TFX,TELEFLEX INC,Health Care,US8793691069,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+TGNA,TEGNA INC,Communication Services,US87901J1051,Media & Entertainment,Media,Broadcasting
+TGT,TARGET CORP,Consumer Staples,US87612E1064,Consumer Staples Distribution,Consumer Staples Distribution,Consumer Staples Merchandise R
+THC,TENET HEALTHCARE,Health Care,US88033G4073,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Facilities
+TJX,TJX COS INC,Consumer Discretionary,US8725401090,Consumer Discretionary Distrib,Specialty Retail,Apparel Retail
+TKO,TKO GROUP HOLDIN,Communication Services,US87256C1018,Media & Entertainment,Entertainment,Movies & Entertainment
+TMO,THERMO FISHER,Health Care,US8835561023,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+TMUS,T-MOBILE US INC,Communication Services,US8725901040,Telecommunication Services,Wireless Telecommunication Ser,Wireless Telecommunication Ser
+TNL,TRAVEL + LEISURE,Consumer Discretionary,US8941641024,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+TPL,TEXAS PACIFIC LA,Energy,US88262P1021,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+TPR,TAPESTRY INC,Consumer Discretionary,US8760301072,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+TRGP,TARGA RESOURCES,Energy,US87612G1013,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transporta
+TRIP,TRIPADVISOR INC,Communication Services,US8969452015,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+TRMB,TRIMBLE INC,Information Technology,US8962391004,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Equipment & Instrum
+TROW,T ROWE PRICE GRP,Financials,US74144T1088,Financial Services,Capital Markets,Asset Management & Custody Ban
+TRV,TRAVELERS COS IN,Financials,US89417E1091,Insurance,Insurance,Property & Casualty Insurance
+TSCO,TRACTOR SUPPLY,Consumer Discretionary,US8923561067,Consumer Discretionary Distrib,Specialty Retail,Other Specialty Retail
+TSLA,TESLA INC,Consumer Discretionary,US88160R1014,Automobiles & Components,Automobiles,Automobile Manufacturers
+TSN,TYSON FOODS-A,Consumer Staples,US9024941034,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+TSS,TOTAL SYS SERVS,,US8919061098,,,
+TT,TRANE TECHNOLOGI,Industrials,IE00BK9ZQ967,Capital Goods,Building Products,Building Products
+TTD,TRADE DESK INC-A,Communication Services,US88339J1051,Media & Entertainment,Media,Advertising
+TTWO,TAKE-TWO INTERAC,Communication Services,US8740541094,Media & Entertainment,Entertainment,Interactive Home Entertainment
+TWC,TIME WARNER CABL,Communication Services,US88732J2078,Media & Entertainment,Media,Cable & Satellite
+TWTR,TWITTER INC,Communication Services,US90184L1026,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+TWX,TIME WARNER INC,Communication Services,US8873173038,Media & Entertainment,Entertainment,Movies & Entertainment
+TXN,TEXAS INSTRUMENT,Information Technology,US8825081040,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+TXT,TEXTRON INC,Industrials,US8832031012,Capital Goods,Aerospace & Defense,Aerospace & Defense
+TYL,TYLER TECHNOLOG,Information Technology,US9022521051,Software & Services,Software,Application Software
+UA,UNDER ARMO-C,Consumer Discretionary,US9043112062,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+UAA,UNDER ARMOUR-A,Consumer Discretionary,US9043111072,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+UAL,UNITED AIRLINES,Industrials,US9100471096,Transportation,Passenger Airlines,Passenger Airlines
+UBER,UBER TECHNOLOGIE,Industrials,US90353T1007,Transportation,Ground Transportation,Passenger Ground Transportatio
+UDR,UDR INC,Real Estate,US9026531049,Equity Real Estate Investment,Residential REITs,Multi-Family Residential REITs
+UHS,UNIVERSAL HLTH-B,Health Care,US9139031002,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Facilities
+ULTA,ULTA BEAUTY INC,Consumer Discretionary,US90384S3031,Consumer Discretionary Distrib,Specialty Retail,Other Specialty Retail
+UNH,UNITEDHEALTH GRP,Health Care,US91324P1021,Health Care Equipment & Servic,Health Care Providers & Servic,Managed Health Care
+UNM,UNUM GROUP,Financials,US91529Y1064,Insurance,Insurance,Life & Health Insurance
+UNP,UNION PAC CORP,Industrials,US9078181081,Transportation,Ground Transportation,Rail Transportation
+UPS,UNITED PARCEL-B,Industrials,US9113121068,Transportation,Air Freight & Logistics,Air Freight & Logistics
+URBN,URBAN OUTFITTER,Consumer Discretionary,US9170471026,Consumer Discretionary Distrib,Specialty Retail,Apparel Retail
+URI,UNITED RENTALS,Industrials,US9113631090,Capital Goods,Trading Companies & Distributo,Trading Companies & Distributo
+USB,US BANCORP,Financials,US9029733048,Banks,Banks,Diversified Banks
+V,VISA INC-CLASS A,Financials,US92826C8394,Financial Services,Financial Services,Transaction & Payment Processi
+VALPQ,VALARIS PLC,Energy,GB00BJVJZD68,Energy,Energy Equipment & Services,Oil & Gas Drilling
+VAR,VARIAN MEDICAL S,Health Care,US92220P1057,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+VFC,VF CORP,Consumer Discretionary,US9182041080,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+VIAB,VIACOM INC-B,Communication Services,US92553P2011,Media & Entertainment,Entertainment,Movies & Entertainment
+VICI,VICI PROPERTIES,Real Estate,US9256521090,Equity Real Estate Investment,Specialized REITs,Other Specialized REITs
+VLO,VALERO ENERGY,Energy,US91913Y1001,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+VLTO,VERALTO CORP,Industrials,US92338C1036,Commercial & Professional Serv,Commercial Services & Supplies,Environmental & Facilities Ser
+VMC,VULCAN MATERIALS,Materials,US9291601097,Materials,Construction Materials,Construction Materials
+VNO,VORNADO RLTY TST,Real Estate,US9290421091,Equity Real Estate Investment,Office REITs,Office REITs
+VNT,VONTIER CORP,Information Technology,US9288811014,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Equipment & Instrum
+VRSK,VERISK ANALYTI,Industrials,US92345Y1064,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+VRSN,VERISIGN INC,Information Technology,US92343E1029,Software & Services,IT Services,Internet Services & Infrastruc
+VRTX,VERTEX PHARM,Health Care,US92532F1003,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+VST,VISTRA CORP,Utilities,US92840M1027,Utilities,Independent Power and Renewabl,Independent Power Producers &
+VTR,VENTAS INC,Real Estate,US92276F1003,Equity Real Estate Investment,Health Care REITs,Health Care REITs
+VTRS,VIATRIS INC,Health Care,US92556V1061,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+VZ,VERIZON COMMUNIC,Communication Services,US92343V1044,Telecommunication Services,Diversified Telecommunication,Integrated Telecommunication S
+WAB,WABTEC CORP,Industrials,US9297401088,Capital Goods,Machinery,Construction Machinery & Heavy
+WAT,WATERS CORP,Health Care,US9418481035,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+WBA,WALGREENS BOOTS,Consumer Staples,US9314271084,Consumer Staples Distribution,Consumer Staples Distribution,Drug Retail
+WBD,WARNER BROS DISC,Communication Services,US9344231041,Media & Entertainment,Entertainment,Movies & Entertainment
+WCG,WELLCARE HEALTH,Health Care,US94946T1060,Health Care Equipment & Servic,Health Care Providers & Servic,Managed Health Care
+WDAY,WORKDAY INC-A,Information Technology,US98138H1014,Software & Services,Software,Application Software
+WDC,WESTERN DIGITAL,Information Technology,US9581021055,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+WEC,WEC ENERGY GROUP,Utilities,US92939U1060,Utilities,Multi-Utilities,Multi-Utilities
+WELL,WELLTOWER INC,Real Estate,US95040Q1040,Equity Real Estate Investment,Health Care REITs,Health Care REITs
+WFC,WELLS FARGO & CO,Financials,US9497461015,Banks,Banks,Diversified Banks
+WFM,WHOLE FOODS MKT,Consumer Staples,US9668371068,Consumer Staples Distribution,Consumer Staples Distribution,Food Retail
+WHR,WHIRLPOOL CORP,Consumer Discretionary,US9633201069,Consumer Durables & Apparel,Household Durables,Household Appliances
+WINMQ,WINDSTREAM HOLDI,Communication Services,US97382A3095,Telecommunication Services,Diversified Telecommunication,Integrated Telecommunication S
+WM,WASTE MANAGEMENT,Industrials,US94106L1098,Commercial & Professional Serv,Commercial Services & Supplies,Environmental & Facilities Ser
+WMB,WILLIAMS COS INC,Energy,US9694571004,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transporta
+WMT,WALMART INC,Consumer Staples,US9311421039,Consumer Staples Distribution,Consumer Staples Distribution,Consumer Staples Merchandise R
+WRB,WR BERKLEY CORP,Financials,US0844231029,Insurance,Insurance,Property & Casualty Insurance
+WRK,WESTROCK CO,Materials,US96145D1054,Materials,Containers & Packaging,Paper & Plastic Packaging Prod
+WSM,WILLIAMS-SONOMA,Consumer Discretionary,US9699041011,Consumer Discretionary Distrib,Specialty Retail,Homefurnishing Retail
+WST,WEST PHARMACEUT,Health Care,US9553061055,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+WTW,WILLIS TOWERS WA,Financials,IE00BDB6Q211,Insurance,Insurance,Insurance Brokers
+WU,WESTERN UNION,Financials,US9598021098,Financial Services,Financial Services,Transaction & Payment Processi
+WY,WEYERHAEUSER CO,Real Estate,US9621661043,Equity Real Estate Investment,Specialized REITs,Timber REITs
+WYNN,WYNN RESORTS LTD,Consumer Discretionary,US9831341071,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+XEC,COTERRA ENERGY O,Energy,US1717981013,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+XEL,XCEL ENERGY INC,Utilities,US98389B1008,Utilities,Electric Utilities,Electric Utilities
+XLNX,XILINX INC,Information Technology,US9839191015,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+XOM,EXXON MOBIL CORP,Energy,US30231G1022,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas
+XRAY,DENTSPLY SIRONA,Health Care,US24906P1093,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Supplies
+XRX,XEROX HOLDINGS C,Information Technology,US98421M1062,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+XYL,XYLEM INC,Industrials,US98419M1009,Capital Goods,Machinery,Industrial Machinery & Supplie
+XYZ,BLOCK INC,Financials,US8522341036,Financial Services,Financial Services,Transaction & Payment Processi
+YUM,YUM! BRANDS INC,Consumer Discretionary,US9884981013,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants
+ZBH,ZIMMER BIOMET HO,Health Care,US98956P1021,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+ZBRA,ZEBRA TECH CORP,Information Technology,US9892071054,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Equipment & Instrum
+ZION,ZIONS BANCORP NA,Financials,US9897011071,Banks,Banks,Regional Banks
+ZTS,ZOETIS INC,Health Care,US98978V1035,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
